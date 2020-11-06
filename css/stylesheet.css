@@ -117,6 +117,8 @@ body{
 .home h1{
     color: #fff;
     font-size: 15vh;
+    text-align: center;
+    
 }
 .galery{
     height: 100vh;
@@ -127,7 +129,9 @@ body{
     .nav_bar nav{
         display: none;
     }
-
+    .home h1{
+        font-size: 8vh;
+    }
 
 }
 
